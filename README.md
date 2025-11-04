@@ -1,0 +1,1 @@
+# qushCup-microservices-fastapi-cleanArchitecture-mongo
